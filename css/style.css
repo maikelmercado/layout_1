@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+html{
+    font-size:62,5%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.logo {
+    width: 30%;
+    max-width: 200%;
+    margin-top: 20px;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+}
+
+.text-container {
+    float: left;
+    width: 50%;
+}
+.img-container{
+    float: right;
+    width: 50%;
+}
+
+.title, .text {
+    width: 100%;
+}
+
+
+
+.adl-image{
+    width: 100%;
+}
+
+.btn {
+    width: 100%;
+    max-width: 300px;
+    height: 50px;
+    font-size: 1.875;
+    border-radius: 5px;
+    border: none;
+    background-color: #749D2D;
+    color: #fff;
+    
+}
